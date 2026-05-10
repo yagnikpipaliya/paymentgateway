@@ -2,6 +2,10 @@
 
 Mid-level take-home: a mocked payment gateway UI built with the Next.js App Router, strict TypeScript, React Hook Form + Zod, Zustand with persistence, and a simulated `POST /api/pay` route handler. No third-party payment SDKs—only `fetch` to the local API.
 
+## Live demo
+
+The app is deployed on Vercel: [https://paymentgateway-seven.vercel.app/](https://paymentgateway-seven.vercel.app/)
+
 ## Prerequisites
 
 - **Node.js** 20+ (LTS recommended; matches Next.js 16 expectations)
